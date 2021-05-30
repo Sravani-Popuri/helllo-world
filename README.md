@@ -1,2 +1,2 @@
 # helllo-world
-place to dump ideas i guess
+place to dump stuff ideas i guess
